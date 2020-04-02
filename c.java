@@ -1,6 +1,5 @@
-public class a{
+public class c{
 	public static void public static void main(String[] args) {
-		System.out.println("a");
-		
+		System.out.println("c");
 	}
 }
