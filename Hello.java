@@ -6,6 +6,7 @@ public class Hello{
 		System.out.println("new add Hello World");
 	
 System.out.println("dev");
+System.out.println("errot");
 
 	}
 }sfs
